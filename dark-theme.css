@@ -5302,6 +5302,14 @@ a.c-member_slug, .c-member_slug--link, .c-mrkdwn__subteam--link {
   border-right: 1px solid var(--main-dark-highlight);
 }
 
+.c-reaction_add__icon--bg {
+  color: #ccbb77;
+}
+
+.c-reaction_add__icon--fg {
+  color: #211e1e;
+}
+
 .rxn .emoji_rxn_count, .rxn .c-reaction__count, .c-reaction .emoji_rxn_count, .c-reaction .c-reaction__count, .c-reaction_add .emoji_rxn_count, .c-reaction_add .c-reaction__count, .c-member_slug .emoji_rxn_count, .c-member_slug .c-reaction__count {
   color: #3aa3e3;
 }
